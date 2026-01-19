@@ -1,0 +1,32 @@
+[gcloud]
+disabled = true
+
+[golang]
+disabled = true
+
+[nodejs]
+disabled = true
+
+
+[username]
+show_always = true
+format = '[$user]($style) '
+style_user = 'bold cyan'
+
+[character]
+success_symbol = '[❯](bold green)'
+error_symbol = '[❯](bold red)'
+
+[directory]
+truncation_length = 3
+style = 'bold cyan'
+
+[git_branch]
+symbol = ""
+style = "bold purple"
+
+[git_status]
+disabled = true
+
+
+# show git only when something is dirty
