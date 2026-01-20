@@ -7,6 +7,20 @@ disabled = true
 [nodejs]
 disabled = true
 
+[kubernetes]
+disabled = true
+
+[gradle]
+disabled = true
+
+[java]
+disabled = true
+
+[kotlin]
+disabled = true
+
+[package]
+disabled = true
 
 [username]
 show_always = true
@@ -27,6 +41,3 @@ style = "bold purple"
 
 [git_status]
 disabled = true
-
-
-# show git only when something is dirty
